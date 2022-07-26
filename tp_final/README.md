@@ -15,16 +15,27 @@ The objective of this work was to analyze data from a public database provided b
 6. Model predictions
 
   6-1. Naive Bayes
+  
   6-2. Support Vector Machines
+  
   6-3. k-Nearest Neighbors
+  
   6-4. decision tree
+  
   6-5. Random Forest
+  
   6-6. Gradient Tree Boosting
+  
   6-7. Bagging Classifier
+  
   6-8. XGBoost Classifier
+  
   6-9. Logistic Regression
+  
   6-10. AdaBoost
+  
   6-11. LightGBM Classifier
+  
   6-12. Extra Trees Classifier
   
 7. Results
