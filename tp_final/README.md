@@ -7,7 +7,7 @@ The objective of this work was to analyze data from a public database provided b
 
 ## Summary
 
-1. Introduction
+-1. Introduction
 2. Objective
 3. Libraries
 4. Data analysis
