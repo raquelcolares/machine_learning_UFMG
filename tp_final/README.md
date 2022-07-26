@@ -7,13 +7,13 @@ The objective of this work was to analyze data from a public database provided b
 
 ## Summary
 
-1. Introduction
-2. Objective
-3. Libraries
-4. Data analysis
-5. Separation of Data in Training and Testing
-6. Model predictions
-6.1. Naive Bayes
+* 1. Introduction
+* 2. Objective
+* 3. Libraries
+* 4. Data analysis
+* 5. Separation of Data in Training and Testing
+* 6. Model predictions
+6-1. Naive Bayes
 6-2. Support Vector Machines
 6-3. k-Nearest Neighbors
 6-4. decision tree
@@ -25,10 +25,10 @@ The objective of this work was to analyze data from a public database provided b
 6-10. AdaBoost
 6-11. LightGBM Classifier
 6-12. Extra Trees Classifier
-7. Results
+* 7. Results
 7-1. Graphical Comparison of Models
 7-2. ROC curve
 7-3. SHAP
-8. Conclusion
-9. References
+* 8. Conclusion
+* 9. References
 
