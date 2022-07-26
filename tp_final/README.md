@@ -8,8 +8,8 @@ The objective of this work was to analyze data from a public database provided b
 ## Summary
 
 -1. Introduction
-2. Objective
-3. Libraries
+-2. Objective
+-3. Libraries
 4. Data analysis
 5. Separation of Data in Training and Testing
 6. Model predictions
