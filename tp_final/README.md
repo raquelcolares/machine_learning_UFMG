@@ -13,7 +13,7 @@ The objective of this work was to analyze data from a public database provided b
 4. Data analysis
 5. Separation of Data in Training and Testing
 6. Model predictions
-6-1. Naive Bayes
+6.1. Naive Bayes
 6-2. Support Vector Machines
 6-3. k-Nearest Neighbors
 6-4. decision tree
