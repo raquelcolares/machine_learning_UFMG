@@ -26,9 +26,9 @@ The objective of this work was to analyze data from a public database provided b
 6-11. LightGBM Classifier
 6-12. Extra Trees Classifier
 7) Results
-7-1. Graphical Comparison of Models
-7-2. ROC curve
-7-3. SHAP
+7-1) Graphical Comparison of Models
+7-2) ROC curve
+7-3) SHAP
 8) Conclusion
 9) References
 
