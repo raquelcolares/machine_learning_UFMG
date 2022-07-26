@@ -5,6 +5,8 @@ There is no vaccine for hepatitis C and the best way to prevent it is to avoid b
 
 The objective of this work was to analyze data from a public database provided by the University of California Irvine - UCI. The models performed were Naive Bayes, Support Vector Machines (SVM), k-NearestNeighbors (k-NN), Decision Tree, Random Forest, Gradient Tree Boosting, Bagging Classifier, XGBoost Classifier, Logistic Regression, AdaBoost, LightGBM Classifier, Extra Trees Classifier. Binary classification methods were used and compared in the prediction of models to determine whether or not the patient has Hepatitis C.
 
+<img src="https://github.com/raquelcolares/machine_learning_UFMG/blob/main/tp_final/hepatitec-fig2.webp" width="200">
+
 ## Summary
 
 1) Introduction
